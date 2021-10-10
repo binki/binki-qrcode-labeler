@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/binki-qrcode-labeler/static/css/main.a4670422.chunk.css",
+    "main.js": "/binki-qrcode-labeler/static/js/main.e9ec916e.chunk.js",
+    "main.js.map": "/binki-qrcode-labeler/static/js/main.e9ec916e.chunk.js.map",
+    "runtime-main.js": "/binki-qrcode-labeler/static/js/runtime-main.d2080975.js",
+    "runtime-main.js.map": "/binki-qrcode-labeler/static/js/runtime-main.d2080975.js.map",
+    "static/js/2.e6a1ccb9.chunk.js": "/binki-qrcode-labeler/static/js/2.e6a1ccb9.chunk.js",
+    "static/js/2.e6a1ccb9.chunk.js.map": "/binki-qrcode-labeler/static/js/2.e6a1ccb9.chunk.js.map",
+    "index.html": "/binki-qrcode-labeler/index.html",
+    "static/css/main.a4670422.chunk.css.map": "/binki-qrcode-labeler/static/css/main.a4670422.chunk.css.map",
+    "static/js/2.e6a1ccb9.chunk.js.LICENSE.txt": "/binki-qrcode-labeler/static/js/2.e6a1ccb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2080975.js",
+    "static/js/2.e6a1ccb9.chunk.js",
+    "static/css/main.a4670422.chunk.css",
+    "static/js/main.e9ec916e.chunk.js"
+  ]
+}
