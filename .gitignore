@@ -25,3 +25,6 @@ yarn-error.log*
 *~
 *.swp
 *\#*
+
+# Build file. Wish there was a conventional way to do this like a public folder with only built files in it…
+public/favicon.ico
