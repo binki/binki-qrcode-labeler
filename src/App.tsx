@@ -62,7 +62,7 @@ function App() {
         flexGrow: 0,
         margin: innerEntryMargin,
         marginRight: 0,
-        width: '1in',
+        width: '1.5cm',
       }} />
       <div style={{
         margin: innerEntryMargin
