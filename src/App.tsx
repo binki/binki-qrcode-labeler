@@ -19,7 +19,7 @@ function App() {
   const [labels, setLabels] = useState(emptyLabels);
   const onFormSubmit = useCallback((e: React.FormEvent<HTMLFormElement>) => {
     setLabels(text.split(/\r?\n/g).map(line => {
-      return /([^ ]+) ?(.*)/.exec(line);
+      return /([^ \t]+)[ \t]?(.*)/.exec(line);
     }).filter(x => x).map(lineParts => {
       if (lineParts === null) throw new Error('TypeScript does not know this is unreachable');
       return {
